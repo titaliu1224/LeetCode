@@ -2,7 +2,5 @@
 > 紀錄解題時獲得的感想
 
 ## 389. Find the Difference
-1. 解題思路
-    可能是太久沒寫題目，我非常簡單暴力的想說就一個個比較t中的字有沒有在s裡，一旦沒找到就回傳那個字。
-2. 時間複雜度
-    約為$O(n^2)$
+> [題目連結](https://leetcode.com/problems/find-the-difference/)
+> [解題心得](https://medium.com/@TitaLiu/leetcode-%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84-389-find-the-difference-c7589bd7faf6)
