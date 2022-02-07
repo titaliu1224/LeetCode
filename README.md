@@ -1,2 +1,2 @@
 # LeetCode
-紀錄所有寫過的Leetocde
+紀錄所有寫過的Leetocde題目
