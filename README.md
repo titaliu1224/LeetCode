@@ -5,3 +5,8 @@
 | Question                                                                      | Rumtime | Memory | Language |
 |-------------------------------------------------------------------------------|---------|--------|----------|
 | [389-Find the Difference](https://leetcode.com/problems/find-the-difference/) | 22 ms   | 9 MB   | cpp      |
+
+## Medium
+| Question                                                                      |   Rumtime  |    Memory   | Language |
+|-------------------------------------------------------------------------------|------------|-------------|----------|
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | 23 ms (36%)| 5.8 MB (75%)| cpp      |
