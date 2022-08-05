@@ -7,6 +7,7 @@
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 22 ms (7%) | 9 MB (9%)   | cpp      |
 | [136. Single Number](https://leetcode.com/problems/single-number/)             | 2 ms (63%) | 49 MB (82%) | java     |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | 0 ms (100%)| 39 MB (97%) | java     |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/)             | 10 ms (19%)| 46 MB (93%) | java     |
 
 ## Medium
 | Question                                                                      |   Rumtime   |   Memory   | Language |
