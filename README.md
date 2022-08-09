@@ -10,6 +10,7 @@
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)             | 10 ms (19%) | 46 MB (93%) | java     |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/)           | 1 ms (79%)  | 51 MB (47%) | java     |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 0 ms (100%) | 41 MB (15%) | java     |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)     | 2 ms (60%)  | 43 MB (36%) | java     |
 
 ## Medium
 | Question                                                                      |   Rumtime   |   Memory   | Language |
