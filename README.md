@@ -11,6 +11,7 @@
 | [268. Missing Number](https://leetcode.com/problems/missing-number/)           | 1 ms (79%)  | 51 MB (47%) | java     |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 0 ms (100%) | 41 MB (15%) | java     |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)     | 2 ms (60%)  | 43 MB (36%) | java     |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)        | 13 ms (32%) | 48 MB (15%) | java     |
 
 ## Medium
 | Question                                                                      |   Rumtime   |   Memory   | Language |
