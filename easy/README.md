@@ -8,3 +8,7 @@
 ## 191. Number of 1 Bits
 > [題目連結](https://leetcode.com/problems/number-of-1-bits/)
 > [解題心得](https://titaliu1224.github.io/posts/LeetCode_191_Number_of_1_Bits/)
+
+## 14. Longest Common Prefix
+> [題目連結](https://leetcode.com/problems/longest-common-prefix/description/)
+> [解題心得](https://titaliu1224.github.io/posts/LeetCode_14_Longest_Common_Prefix/)
