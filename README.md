@@ -13,6 +13,7 @@
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                     | 2 ms (60%)  | 43 MB (36%) | java     |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                        | 13 ms (32%) | 48 MB (15%) | java     |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)  | 0 ms (100%) | 9 MB (21%)  | cpp      |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)       | 483 ms (7%) | 23 MB (98%) | python   |
 
 ## Medium
 | Question                                                                      |   Rumtime   |   Memory   | Language |
