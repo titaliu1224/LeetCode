@@ -12,6 +12,3 @@
 ## 14. Longest Common Prefix
 > [題目連結](https://leetcode.com/problems/longest-common-prefix/description/)
 > [解題心得](https://titaliu1224.github.io/posts/LeetCode_14_Longest_Common_Prefix/)
-
-## 217. Contains Duplicate
-> [題目連結](https://leetcode.com/problems/contains-duplicate/description/)
