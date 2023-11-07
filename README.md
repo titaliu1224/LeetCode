@@ -18,8 +18,9 @@
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 24 ms (15%) | 26 MB (28%) | cpp      |
 
 ## Medium
-| Question                                                                                                                                                                | Rumtime     | Memory      | Language |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|----------|
-| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                                | 23 ms (36%) | 6 MB (75%)  | cpp      |
-| [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/submissions/?envType=daily-question&envId=2023-10-31) | 91 ms (37%) | 80 MB (35%) | cpp      |
-| [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description)                                                    | 73 ms (94%) | 63 MB (86%) | cpp      |
+| Question                                                                                                                                                                | Rumtime      | Memory      | Language |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|----------|
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                                | 23 ms (36%)  | 6 MB (75%)  | cpp      |
+| [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/submissions/?envType=daily-question&envId=2023-10-31) | 91 ms (37%)  | 80 MB (35%) | cpp      |
+| [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description)                                                    | 73 ms (94%)  | 63 MB (86%) | cpp      |
+| [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description)                                            | 101 ms (86%) | 81 MB (98%) | cpp      |
