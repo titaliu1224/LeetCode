@@ -25,3 +25,5 @@
 | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description)                                                    | 73 ms (94%)  | 63 MB (86%) | cpp      |
 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description)                                            | 101 ms (86%) | 81 MB (98%) | cpp      |
 | [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)                               | 0 ms (100%)  | 6 MB (11%)  | cpp      |
+| [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description) | 26 ms (48%) | 12 MB (84%) | cpp |
+| [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | 0 ms (100%) | 12 MB (78%) | cpp |
