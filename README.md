@@ -16,6 +16,7 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                           | 483 ms (7%) | 23 MB (98%) | python   |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                     | 49 ms (10%) | 16 MB (7%)  | cpp      |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 24 ms (15%) | 26 MB (28%) | cpp      |
+| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | 80 ms (5%) | 435 MB (5%) | cpp |
 
 ## Medium
 | Question                                                                                                                                                                | Rumtime      | Memory      | Language |
