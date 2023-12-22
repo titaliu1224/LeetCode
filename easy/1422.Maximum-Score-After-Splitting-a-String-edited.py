@@ -1,3 +1,8 @@
+'''
+Runtime: 31 ms (98%)
+Memory: 17 MB (6%)
+'''
+
 class Solution:
     def maxScore(self, s: str) -> int:
         right = 0
