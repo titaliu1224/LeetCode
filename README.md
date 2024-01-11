@@ -16,6 +16,7 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                           | 483 ms (7%) | 23 MB (98%) | python   |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                     | 49 ms (10%) | 16 MB (7%)  | cpp      |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 24 ms (15%) | 26 MB (28%) | cpp      |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                   | 3 ms (99%)  | 11 MB (35%) | cpp      |
 
 ## Medium
 | Question                                                                                                                                                                | Rumtime      | Memory      | Language |
@@ -25,5 +26,5 @@
 | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description)                                                    | 73 ms (94%)  | 63 MB (86%) | cpp      |
 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description)                                            | 101 ms (86%) | 81 MB (98%) | cpp      |
 | [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)                               | 0 ms (100%)  | 6 MB (11%)  | cpp      |
-| [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description) | 26 ms (48%) | 12 MB (84%) | cpp |
-| [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | 0 ms (100%) | 12 MB (78%) | cpp |
+| [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description)                                          | 26 ms (48%)  | 12 MB (84%) | cpp      |
+| [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)                                 | 0 ms (100%)  | 12 MB (78%) | cpp      |
